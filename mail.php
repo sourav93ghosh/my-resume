@@ -22,7 +22,7 @@ $mail->SMTPAuth = true;
 $mail->Username = "sourav93.ghosh@gmail.com";                 
 $mail->Password = "gmailpassword1234";                           
 //If SMTP requires TLS encryption then set it
-$mail->SMTPSecure = "tls";                           
+$mail->SMTPSecure = "ssl";                           
 //Set TCP port to connect to 
 $mail->Port = 587; 
 
