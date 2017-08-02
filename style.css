@@ -419,6 +419,21 @@ input, textarea{
 	.content-body{
 		font-size: 12px;
 	}
+	.workexp{
+		width: 80%;
+		margin: auto;
+	}
+	.dialog{
+		height: 280px;
+		width: 80%;
+		margin: auto;
+		left: 10%;
+	}
+	.contact-left{
+		width: 65%;
+		margin-left: 10%;
+		margin-bottom: 40px;
+	}
 }
 
 @media (max-width:345px){
